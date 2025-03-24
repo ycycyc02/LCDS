@@ -1,5 +1,5 @@
 # DSGS
-ELLA: Empowering LLMs for Interpretable, Accurate and Informative Legal Advice
+A Discharge Summary Generation and Comparison Review System
 
 Demo Video: 
 
