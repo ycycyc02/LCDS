@@ -1,5 +1,5 @@
 # LCDS
-A Discharge Summary Generation and Comparison Review System
+LCDS: A Logic-Controlled Discharge Summary Generation System Supporting Source Attribution and Expert Audit
 
 Demo Video: 
 
