@@ -7,4 +7,4 @@ Online Demo:
 
 
 # framework
-![框架图]('framwork/framework.pdf')
+![框架图]('framework/framework.pdf')
