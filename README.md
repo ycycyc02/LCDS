@@ -3,7 +3,7 @@ LCDS: A Logic-Controlled Discharge Summary Generation System Supporting Source A
 
 Demo Video: https://youtu.be/yLyxRA0BV4s
 
-Online Demo: 
+Online Demo: https://lcds.ecustnlplab.com/home
 
 
 # Framework
